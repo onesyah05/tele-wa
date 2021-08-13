@@ -1,2 +1,6 @@
 session.json
 node_modules/
+photos/
+videos/
+*.txt
+*.env
